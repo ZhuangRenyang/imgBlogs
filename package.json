@@ -1,0 +1,22 @@
+{
+  "name": "zhuangimgblogs",
+  "version": "1.0.0",
+  "description": "zhuangrenyangimgBlogs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZhuangRenyang/imgBlogs.git"
+  },
+  "keywords": [
+    "图床"
+  ],
+  "author": "zhuangrenyang",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ZhuangRenyang/imgBlogs/issues"
+  },
+  "homepage": "https://github.com/ZhuangRenyang/imgBlogs#readme"
+}
